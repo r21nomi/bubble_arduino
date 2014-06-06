@@ -3,7 +3,7 @@ bubble_arduino
 
 ![image](bin/data/bubble.gif)  
 
-## prepairation  
+## preparation  
 #### write standardFirmata    
 require: standardFirmata  
   
